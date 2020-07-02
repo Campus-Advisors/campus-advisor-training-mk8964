@@ -1,4 +1,4 @@
-# Project 1. Start of your portfolio
+# Portfolio Project 1.
 
 ## Due Date: 10/06/2020 worth 100 points
 
@@ -11,20 +11,20 @@ Part 1. As in almost every field, the job market for the best jobs in web develo
 Part 2. Create a new word document called ProjectAnswers.docx. You will have a number of questions that you are required to answer at various times throughout this project. This document will be included within the project folder and will also be uploaded to GitHub for submission. Be sure to include the question with your response. If your response required research outside of the textbook you must include any references you used in the process. Failure to do so will result in a plagiarism violation. Your first question is: What do you want this website to accomplish?
 
 Part 3. You have already created your website plan, wireframe, and sitemap. So now its time to start work on your site. Complete the following steps.
-*Create a folder to serve as the root folder for the website and name the folder (YourName)Portfolio.
-  *For example my folder would be labeled MichaelKelleyPortoflio.
-*Create a webpage template with HTML semantic elements and static content.
-*Save the template file within your portfolio folder.
-*Add a multiline comment above the HTML element that includes your name, the file name, and the current date.
-*Add a comment above the main element to note its purpose.
-*In the header, include a heading element for your name, and then add another heading element with your mission statement or tagline.
-*In the nav area, include text for the links you will provide to the other webpages in the website.
-*Validate the template, correct any errors, and then use the template to create a home page and name it index.html for your portfolio.
-*Finally, add content to the main content area on your index.html page.
-  *Add at least 2 paragraphs of lorem ipsum text.
-  *You can use a lorem ipsum generator to create this.
-  *A quick good search should lead you to one.  
-*Save your progress and pick up with part 5.
+* Create a folder to serve as the root folder for the website and name the folder (YourName)Portfolio.
+  * For example my folder would be labeled MichaelKelleyPortoflio.
+* Create a webpage template with HTML semantic elements and static content.
+* Save the template file within your portfolio folder.
+* Add a multiline comment above the HTML element that includes your name, the file name, and the current date.
+* Add a comment above the main element to note its purpose.
+* In the header, include a heading element for your name, and then add another heading element with your mission statement or tagline.
+* In the nav area, include text for the links you will provide to the other webpages in the website.
+* Validate the template, correct any errors, and then use the template to create a home page and name it index.html for your portfolio.
+* Finally, add content to the main content area on your index.html page.
+  * Add at least 2 paragraphs of lorem ipsum text.
+  * You can use a lorem ipsum generator to create this.
+  * A quick good search should lead you to one.  
+* Save your progress and pick up with part 5.
 
 Part 4. Here is the next question for your ProjectAnswers.docx. How will you improve this website? Research other online portfolios for ideas on what you can add to enhance the look of your website.
 
