@@ -11,7 +11,7 @@ Part 1. As in almost every field, the job market for the best jobs in web develo
 Part 2. Create a new word document called ProjectAnswers.docx. You will have a number of questions that you are required to answer at various times throughout this project. This document will be included within the project folder and will also be uploaded to GitHub for submission. Be sure to include the question with your response. If your response required research outside of the textbook you must include any references you used in the process. Failure to do so will result in a plagiarism violation. Your first question is: What do you want this website to accomplish?
 
 Part 3. You have already created your website plan, wireframe, and sitemap. So now its time to start work on your site. Complete the following steps.
-* [x] Create a folder to serve as the root folder for the website and name the folder (YourName)Portfolio.
+* [ ] Create a folder to serve as the root folder for the website and name the folder (YourName)Portfolio.
   * [ ] For example my folder would be labeled MichaelKelleyPortoflio.
 * [ ] Create a webpage template with HTML semantic elements and static content.
 * [ ] Save the template file within your portfolio folder.
